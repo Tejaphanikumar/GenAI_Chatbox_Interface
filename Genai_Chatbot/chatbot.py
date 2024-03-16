@@ -1,7 +1,5 @@
 import openai
 import os
-
-import func
 import func as f
 import gradio as gr
 
