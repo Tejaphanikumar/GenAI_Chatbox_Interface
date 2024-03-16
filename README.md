@@ -1,7 +1,8 @@
 # GenAI_Chatbox_Interface
-This project demonstrates the integration of Generative AI powered by OpenAI's API to create a responsive chatbox interface capable of generating text and images based on user input. The interface, built using Gradio, provides an intuitive user experience for seamless interaction.
 
 After over a months of learning and exploration , I'm thrilled to unveil my latest endeavor: a project leveraging the power of Generative AI through the OpenAI API to create dynamic text and image-based outputs based on user input. Utilizing the cutting-edge capabilities of OpenAI, I've developed a versatile chatbox interface using Gradio, enabling seamless interaction and creative expression.
+
+This project demonstrates the integration of Generative AI powered by OpenAI's API to create a responsive chatbox interface capable of generating text and images based on user input. The interface, built using Gradio, provides an intuitive user experience for seamless interaction.
 Key Features:
 
 1.Utilizes OpenAI API for text and image generation.
